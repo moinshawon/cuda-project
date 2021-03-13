@@ -1,2 +1,3 @@
+guided project from YT 
 
-http://moinulislam.me/cuda-project/
+[check here](http://moinulislam.me/cuda-project) 
